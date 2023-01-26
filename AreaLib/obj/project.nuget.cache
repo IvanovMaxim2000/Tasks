@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ewkWvttoapiKYJGAL76TgF7of68clv0CGukHdx7KkIOZQY5b8tg7V3yVfGBPbKkBICRYIEnIYGGM8axQqbadA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Максим\\Documents\\GitHub\\Tasks\\AreaLib\\AreaLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Максим\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Максим\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

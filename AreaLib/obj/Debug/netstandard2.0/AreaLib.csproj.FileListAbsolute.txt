@@ -1,0 +1,9 @@
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\bin\Debug\netstandard2.0\AreaLib.deps.json
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\bin\Debug\netstandard2.0\AreaLib.dll
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\bin\Debug\netstandard2.0\AreaLib.pdb
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\obj\Debug\netstandard2.0\AreaLib.csprojAssemblyReference.cache
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\obj\Debug\netstandard2.0\AreaLib.AssemblyInfoInputs.cache
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\obj\Debug\netstandard2.0\AreaLib.AssemblyInfo.cs
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\obj\Debug\netstandard2.0\AreaLib.csproj.CoreCompileInputs.cache
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\obj\Debug\netstandard2.0\AreaLib.dll
+C:\Users\Максим\Documents\GitHub\Tasks\AreaLib\obj\Debug\netstandard2.0\AreaLib.pdb
