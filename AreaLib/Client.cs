@@ -1,7 +1,7 @@
 ﻿
 namespace AreaLib
 {
-    public class Client
+    public class Client : IClient
     {
         public double GetArea(IFigure figure) => figure.GetArea();
 
